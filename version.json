@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.1.2",
   "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/app-release.apk",
-  "releaseNotes": "• Added automatic retention & cleanup of old newspapers in Settings\n• Organized Library: Today's papers with collapsible previous editions\n• Added Delete All button in Library\n• Enhanced PDF reader with fluid swiping and persistent dark mode\n• Live commercial ads integration (no ad page if fill is empty)",
+  "releaseNotes": "• Added authentic Bangla date, Bangla day, and Bengali calendar support (বঙ্গাব্দ)\n• Added automatic retention & cleanup of old newspapers in Settings\n• Organized Library: Today's papers with collapsible previous editions\n• Added Delete All button in Library\n• Enhanced PDF reader with fluid swiping and persistent dark mode\n• Live commercial ads integration (no ad page if fill is empty)",
   "forceUpdate": false
 }
