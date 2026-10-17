@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2.2",
+  "versionCode": 13,
+  "versionName": "1.2.3",
   "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/app-release.apk",
-  "releaseNotes": "• Serial Image Upload & Direct PDF: Read online with instant image preloading & direct PDF downloading\n• Next-3 Images Preload: Preloads current + next 3 pages into memory for zero-lag reading\n• Dual Action Buttons: 'অনলাইনে পড়ুন' (Read Online) & 'PDF ডাউনলোড' (Download PDF)\n• Admin Enhancements: Auto natural sort for 1.jpg..10.jpg, ImgBB upload, DB serial link storage, and issue editing",
+  "releaseNotes": "• আন্তর্জাতিক পত্রিকা তালিকা: জাতীয় পত্রিকার নিচে আন্তর্জাতিক পত্রিকা আলাদা সেকশনে সাজানো হয়েছে\n• সরাসরি PDF ভিউ ও ডাউনলোড: আন্তর্জাতিক পত্রিকায় 'দেখুন' ট্যাপ করলে স্বয়ংক্রিয়ভাবে ডাউনলোড হয়ে সরাসরি PDF রিডারে ওপেন হয়\n• পেজ লোডিং সমস্যার সমাধান: No page found ত্রুটি পুরোপুরি সমাধান করা হয়েছে",
   "forceUpdate": false
 }
