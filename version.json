@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.2.0",
+  "versionCode": 11,
+  "versionName": "1.2.1",
   "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/app-release.apk",
-  "releaseNotes": "• Instant Library Sync: Magazine download button automatically flips to 'পড়ুন' (Read) instantly without leaving tab\n• Non-Blocking Online Streaming: Dismissible progress dialog with 'বাতিল করুন' (Cancel) and 'ব্যাকগ্রাউন্ডে ডাউনলোড' options\n• Robust Crash Prevention: Atomic downloads with .part files, automatic PDF integrity verification, and safe memory management\n• Safe Deletion & Redownload: Complete cache wipe on deletion prevents corrupted or truncated file crashes",
+  "releaseNotes": "• Dual Experience: View uploaded photos & swipe left/right to read while downloading full PDF to library\n• In-Reader PDF Download: Download PDF directly from within the swipe image reader without leaving the screen\n• Instant Library Sync: Magazine download button automatically flips to 'পড়ুন' (Read) instantly\n• Non-Blocking Online Streaming: Dismissible progress dialog with cancel and background download options",
   "forceUpdate": false
 }
