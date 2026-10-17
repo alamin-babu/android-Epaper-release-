@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.8",
+  "versionCode": 9,
+  "versionName": "1.1.9",
   "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/app-release.apk",
-  "releaseNotes": "• Magazine Background Library Downloads: Download magazine PDFs directly into Library in background with dismissible real-time progress dialog\n• Magazine Library Integration: Saved magazines display 'পড়ুন' (Read) button with instant offline access\n• Progress Bar Loading: Replaced loading circle with sleek modern progress bars across online magazine views\n• General UI refinements and stability improvements",
+  "releaseNotes": "• Ultra-smooth Magazine Experience: Offline-first instant magazine loading (0ms cache)\n• Dedicated Magazine Image Cache: Lightning-fast cover photo rendering with persistent disk and memory caching\n• Global Download Status & Tab Badge: Animated download counter badge on Magazines tab with quick-access banner\n• Permanent Library Protection: Downloaded magazines are safely preserved from newspaper auto-cleanup\n• Library Magazine Distinction: Exclusive 'ম্যাগাজিন' badge and icon in Library\n• Resume Reading: Automatically remembers and resumes your last read page\n• Quick Filter Reset: One-tap clear filter chip with real-time match count",
   "forceUpdate": false
 }
