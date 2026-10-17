@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.5",
+  "versionCode": 6,
+  "versionName": "1.1.6",
   "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/app-release.apk",
   "releaseNotes": "• New Magazines Section: Browse, filter by month & year, read and convert serialized photos into lossless PDFs\n• Admin controlled device-specific ads mode (disabled by default)\n• Added authentic Bangla date, Bangla day, and Bengali calendar support (বঙ্গাব্দ)\n• Added automatic retention & cleanup of old newspapers in Settings\n• Organized Library: Today's papers with collapsible previous editions\n• Added Delete All button in Library\n• Enhanced PDF reader with fluid swiping and persistent dark mode",
   "forceUpdate": false
