@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.2.1",
+  "versionCode": 12,
+  "versionName": "1.2.2",
   "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/app-release.apk",
-  "releaseNotes": "• Dual Experience: View uploaded photos & swipe left/right to read while downloading full PDF to library\n• In-Reader PDF Download: Download PDF directly from within the swipe image reader without leaving the screen\n• Instant Library Sync: Magazine download button automatically flips to 'পড়ুন' (Read) instantly\n• Non-Blocking Online Streaming: Dismissible progress dialog with cancel and background download options",
+  "releaseNotes": "• Serial Image Upload & Direct PDF: Read online with instant image preloading & direct PDF downloading\n• Next-3 Images Preload: Preloads current + next 3 pages into memory for zero-lag reading\n• Dual Action Buttons: 'অনলাইনে পড়ুন' (Read Online) & 'PDF ডাউনলোড' (Download PDF)\n• Admin Enhancements: Auto natural sort for 1.jpg..10.jpg, ImgBB upload, DB serial link storage, and issue editing",
   "forceUpdate": false
 }
