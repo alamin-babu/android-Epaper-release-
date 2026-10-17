@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.7",
+  "versionCode": 8,
+  "versionName": "1.1.8",
   "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/app-release.apk",
-  "releaseNotes": "• Background App Updates: Updates download silently in the background with instant zero-wait installation\n• Real-Time Online PDF Loading: Accurate progress bar showing transfer speed (MB/s), MB count, and estimated remaining time\n• Direct Magazine Streaming: Read online magazines directly with high-performance caching\n• General UI refinements and stability improvements",
+  "releaseNotes": "• Magazine Background Library Downloads: Download magazine PDFs directly into Library in background with dismissible real-time progress dialog\n• Magazine Library Integration: Saved magazines display 'পড়ুন' (Read) button with instant offline access\n• Progress Bar Loading: Replaced loading circle with sleek modern progress bars across online magazine views\n• General UI refinements and stability improvements",
   "forceUpdate": false
 }
