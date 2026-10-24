@@ -1,7 +1,7 @@
 {
-    "versionCode": 9,
-    "versionName": "1.1.9",
-    "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/Potrika.apk",
-    "releaseNotes": "• প্রতিদিন নতুন পত্রিকা প্রকাশের পর লাইব্রেরিতে পুরোনো পত্রিকা থাকলেও আজকের পত্রিকা ডাউনলোড অপশন নিশ্চিতকরণ\n• অ্যাপ ওপেনে অতিরিক্ত ব্যাকগ্রাউন্ড রিকোয়েস্ট সম্পূর্ণ বন্ধকরণ (শুধুমাত্র প্রথম আলো ডাউনলোডের সময় ফিচার ম্যাগাজিন চেক ও স্বয়ংক্রিয় ডাউনলোড)\n• দ্রুততর অ্যাপ লোডিং ও পারফরম্যান্স অপ্টিমাইজেশন",
-    "forceUpdate": false
+  "versionCode": 15,
+  "versionName": "1.2.5",
+  "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/Potrika.apk",
+  "releaseNotes": "• বণিক বার্তা ডাউনলোড সমস্যা সমাধান করা হয়েছে।\n• বুক সেকশন যোগ করা হয়েছে।\n• নিরাপত্তা ব্যবস্থার উন্নতি করা হয়েছে।",
+  "forceUpdate": false
 }
