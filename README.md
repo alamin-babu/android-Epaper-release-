@@ -3,7 +3,7 @@
 Official release repository for Bangladesh ePapers Downloader & Reader.
 
 ## Latest Release
-- **Version:** v1.1.2 (Build 3)
+- **Version:** v1.3.1 (Build 21)
 - **APK Download:** [Download app-release.apk](https://github.com/alamin-babu/android-Epaper-release-/raw/main/app-release.apk)
 - **Update Manifest:** [version.json](https://raw.githubusercontent.com/alamin-babu/android-Epaper-release-/main/version.json)
 
