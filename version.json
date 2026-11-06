@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.3.1",
+  "versionCode": 23,
+  "versionName": "1.3.3",
   "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/Potrika.apk",
-  "releaseNotes": "• Favourite Star (⭐) bookmarking added for all newspapers & international editions\n• Star filter tab added to easily browse saved favourites\n• High-definition broadsheet rendering for editorial pages\n• Enhanced ad revenue integration with live Start.io production ads & security hardening",
+  "releaseNotes": "• Resolved 'App not installed' issue, hardware security & updated target SDK to Android 15/16",
   "forceUpdate": false
 }
