@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "1.3.6",
+  "versionCode": 27,
+  "versionName": "1.3.7",
   "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/Potrika.apk",
-  "releaseNotes": "• Jugantor full high-resolution (1892x2736) print & editorial downloader engine\n• Reordered edition list: top recognized national papers (Editorial, Prothom Alo, Daily Star, Bonik Barta, TBS, Amar Desh, Ittefaq, Jugantor) first\n• Security, memory management & JPEG pipeline optimizations",
+  "releaseNotes": "• Enhanced Library Organization: Category Filter Tabs (Newspapers, Editorials, Magazines, Books, International)\n• Instant search bar across saved titles & publication dates\n• Multi-select batch actions (Batch Delete, Batch Share, Select All)\n• Custom sorting (Newest, Oldest, Name A-Z, File Size Largest/Smallest)\n• Reading progress indicators with resume page badges",
   "forceUpdate": false
 }
