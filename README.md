@@ -8,7 +8,6 @@ Official release repository for Bangladesh ePapers Downloader & Reader.
 - **Update Manifest:** [version.json](https://raw.githubusercontent.com/alamin-babu/android-Epaper-release-/main/version.json)
 
 ## Release Notes
-- Admin Live Notice & Announcement Broadcast System (Vercel backend + Turso SQLite + In-App Banner & Popup Dialog)
 - The Daily Star Full HD multi-edition & supplement downloader print engine
 - Start.io SDK integration fully verified & Ads enabled ON by default for all devices (including new registrations)
 - Hardened security against SQL injection, data tampering, and insecure network transmission
