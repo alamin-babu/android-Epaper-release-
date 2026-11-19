@@ -3,12 +3,11 @@
 Official release repository for Bangladesh ePapers Downloader & Reader.
 
 ## Latest Release
-- **Version:** v1.3.5 (Build 25)
+- **Version:** v1.3.6 (Build 26)
 - **APK Download:** [Download Potrika.apk](https://github.com/alamin-babu/android-Epaper-release-/raw/main/Potrika.apk)
 - **Update Manifest:** [version.json](https://raw.githubusercontent.com/alamin-babu/android-Epaper-release-/main/version.json)
 
 ## Release Notes
-- The Daily Star Full HD multi-edition & supplement downloader print engine
-- Start.io SDK integration fully verified & Ads enabled ON by default for all devices (including new registrations)
-- Hardened security against SQL injection, data tampering, and insecure network transmission
-- Dual signed with release key (APK Signature Scheme v2) supporting Android 7.0 through Android 16 (API 24–36)
+- **Jugantor Master Downloader:** Full 1892x2736 original resolution print edition scraper and high-contrast JPEG optimization engine (both full paper and editorial page).
+- **Recognized Paper Prioritization:** Reordered edition catalog to surface top recognized national papers first: Editorial, Prothom Alo, The Daily Star, Bonik Barta, The Business Standard, Amar Desh, Daily Ittefaq, Jugantor, etc.
+- **Security & Integrity:** Strict HTTPS verification, bounded heap memory allocation, concurrent download safeguards, and dual signed release APK.

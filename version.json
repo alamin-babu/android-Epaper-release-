@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.3.5",
+  "versionCode": 26,
+  "versionName": "1.3.6",
   "apkUrl": "https://github.com/alamin-babu/android-Epaper-release-/raw/main/Potrika.apk",
-  "releaseNotes": "• The Daily Star Full HD multi-edition & supplement downloader print engine\n• \n• Security, stability & reader performance enhancements",
+  "releaseNotes": "• Jugantor full high-resolution (1892x2736) print & editorial downloader engine\n• Reordered edition list: top recognized national papers (Editorial, Prothom Alo, Daily Star, Bonik Barta, TBS, Amar Desh, Ittefaq, Jugantor) first\n• Security, memory management & JPEG pipeline optimizations",
   "forceUpdate": false
 }
